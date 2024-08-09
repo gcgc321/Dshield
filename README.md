@@ -1,7 +1,5 @@
 # DShield Honeypot Project
 
-![DShield Logo](https://isc.sans.edu/honeypot.html)
-
 ## Introduction
 
 The **DShield Honeypot Project** is designed to collect and report data on malicious network activity. This honeypot setup is designed to be lightweight and easy to deploy, allowing users to contribute valuable data to the DShield network.
