@@ -101,8 +101,10 @@ https://isc.sans.edu/tools/honeypot/index.html
 - Within 24 hours of this honeypot being provisioned it was hit by 38 unique IPs from across the world mainly Asia and Russia.
 - On ports 22(SSH) and 23(Telnet) they tried to bruteforce in with a total of 921 guesses. 
 <img width="1680" alt="Screenshot 2024-08-09 at 8 08 58 PM" src="https://github.com/user-attachments/assets/ef4b6bde-a87a-425f-bced-dee7c708b133">
+<img width="1680" alt="Screenshot 2024-08-10 at 4 16 13 PM" src="https://github.com/user-attachments/assets/7ab813e1-15f4-4307-a857-0cda90fb222b">
+<img width="1680" alt="Screenshot 2024-08-10 at 4 16 09 PM" src="https://github.com/user-attachments/assets/0e90e785-7f1f-4b9c-8084-a79159fe4790">
 
-<img width="1680" alt="Screenshot 2024-08-09 at 8 50 16 PM" src="https://github.com/user-attachments/assets/39a4bc0d-7369-419d-bfb2-fec846f44cb8">
+
 
 
 
