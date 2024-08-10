@@ -92,6 +92,9 @@ https://isc.sans.edu/tools/honeypot/index.html
 - Techincally you can stop here and then use the raspberry pi. Place it on your network's DMZ or allow port forwarding to expose it to the world wide web.
 - I went with a cloud provider to mitigate the risk of an attacker pivoting to my SoHo network. 
 - Choose a cloud provider (e.g., Vultr) and set up an instance of 64-bit Linux 22.04 LTS.
+![vultr server](https://github.com/user-attachments/assets/3c4887a1-85c8-40c6-bb55-3461621f4980)
+
+
 - Follow the same installation steps as with the Raspberry Pi.
 - Tweak your firewall rules to allow TCP/UDP traffic from ports 1-65535.
 - Monitor the collected data to observe malicious activity targeting your honeypot.
